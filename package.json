@@ -1,0 +1,22 @@
+{
+  "name": "aj-utils",
+  "version": "0.1.0",
+  "description": "Npm Package of useful util functions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashler2/AJ-Utils.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "ashler2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashler2/AJ-Utils/issues"
+  },
+  "homepage": "https://github.com/ashler2/AJ-Utils#readme"
+}
