@@ -4,7 +4,7 @@ A npm package of functions that i find useful or have created All created with T
 
 ## Change log
 
-### V1.1.0 - Added binarySearch = 17th Sep 2019
+#### V1.1.0 - Added binarySearch - 17th Sep 2019
 
 - Added Binary search Function that returns the index of the value- binarySearch([1,3,5,6], 3) === 2
 
