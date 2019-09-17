@@ -8,3 +8,5 @@ A npm package of functions that i find useful or have created All created with T
 
 - Updated the Readme
 - Small code Change
+- Added Greatest Common Divisor function - gcd(12, 24) = 12
+- Added Roman Numeral Encoder - romanNum(4) = IX
