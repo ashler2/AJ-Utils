@@ -11,7 +11,9 @@
     "url": "git+https://github.com/ashler2/AJ-Utils.git"
   },
   "keywords": [
-    "Javascript"
+    "Javascript",
+    "Utils",
+    "Math"
   ],
   "author": "ashler2",
   "license": "ISC",
