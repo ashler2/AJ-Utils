@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "ajExpress": "Utils/expressServer/bin/generate.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ashler2/AJ-Utils.git"

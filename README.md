@@ -5,6 +5,8 @@ A npm package created with different functionality for ease of use.
 ## Set up
 
 `npm install aj-utils`
+or
+`npm install aj-utils -g`
 
 #### Require examples
 
@@ -14,6 +16,8 @@ Const {centuryCalc} = require('aj-utils)
 ```
 
 ## Functions
+
+`"ajExpress" or "ajExpress < folder name >"`
 
 `centuryCalc(year, romanNumerals = true/false)`
 
@@ -26,6 +30,28 @@ Const {centuryCalc} = require('aj-utils)
 `romanNum(Number)`
 
 ## Change log
+
+#### V1.4.0 - Added ajExpress - 23rd Sep 2019
+
+- Added ajExpress when globally installed. This will create a basic node/express server as well as installing Express and nodemon.
+
+  - Once installed globally use "ajExpress" in the terminal to generate the server in the file
+  - Or use "ajExpress < filename >" to create the folder for the server.
+
+  ```
+  ajExpress
+  ├── app.js
+  ├── config
+  │   └── index.js
+  ├── controllers
+  │   └── errors.js
+  ├── listen.js
+  ├── models
+  ├── package-lock.json
+  ├── package.json
+  └── routes
+    └── apiRouter.js
+  ```
 
 #### V1.3.0 - Added centuryCalc - 21st Sep 2019
 
