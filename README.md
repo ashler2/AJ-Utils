@@ -31,6 +31,11 @@ Const {centuryCalc} = require('aj-utils)
 
 ## Change log
 
+#### V1.5.0 - Added fizzBuzz - 11th Oct 2019
+
+- added the function fizzBuzz that takes a number and returns an array of the length counting up and returning fizz for multiples of 3 and buzz for multiples of 5, if both returns fizzbuzz in the array.
+  -fizzBuzz(15) === [1, 2,'Fizz', 4,'Buzz', 'Fizz',7, 8,'Fizz', 'Buzz',11, 'Fizz',13, 14,'FizzBuzz']
+
 #### V1.4.0 - Added ajExpress - 23rd Sep 2019
 
 - Added ajExpress when globally installed. This will create a basic node/express server as well as installing Express and nodemon.
