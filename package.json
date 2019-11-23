@@ -16,7 +16,10 @@
   "keywords": [
     "Javascript",
     "Utils",
-    "Math"
+    "Math",
+    "Node",
+    "express",
+    "server"
   ],
   "author": "ashler2",
   "license": "ISC",
